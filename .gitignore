@@ -1,0 +1,8 @@
+*compile_commands.json
+*.o
+*.a
+*.objs
+.vscode
+.cache
+*.DS_Store
+__cheats__
